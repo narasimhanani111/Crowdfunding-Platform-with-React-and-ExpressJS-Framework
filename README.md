@@ -1,1 +1,0 @@
-# Crowdfunding-Platform-with-React-and-ExpressJS-Framework
